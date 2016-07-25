@@ -1,5 +1,5 @@
 # ecksbot
-ecksbot
+ecksbot @ http://192.168.33.10/
 
 ##TODO
 1. add blade template form for adding an 'action'
